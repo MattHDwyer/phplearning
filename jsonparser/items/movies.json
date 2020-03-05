@@ -96,5 +96,19 @@
         "price": 29.989999999999998436805981327779591083526611328125,
         "genre": "Fantasy",
         "synopsis": "In an effort to thwart Grindelwald's plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.\r\n"
+    },
+    {
+        "title": "The Goonies",
+        "year": "1985",
+        "price": 17.989999999999998436805981327779591083526611328125,
+        "genre": "Romance",
+        "synopsis": "Old-fashioned yarn about a band of adventurous kids who take on the might of a property developing company which plans to destroy their home to build a country club. When the children discover an old pirate map in the attic, they follow it into an underground cavern in search of lost treasure but come up against plenty of dangerous obstacles along the way.\n"
+    },
+    {
+        "title": "Batman vs Superman: Dawn of Justice",
+        "year": "2016",
+        "price": 12.9900000000000002131628207280300557613372802734375,
+        "genre": "Action",
+        "synopsis": "It's been nearly two years since Superman's (Henry Cavill) colossal battle with Zod (Michael Shannon) devastated the city of Metropolis. The loss of life and collateral damage left many feeling angry and helpless, including crime-fighting billionaire Bruce Wayne (Ben Affleck). Convinced that Superman is now a threat to humanity, Batman embarks on a personal vendetta to end his reign on Earth, while the conniving Lex Luthor (Jesse Eisenberg) launches his own crusade against the Man of Steel.\n"
     }
 ]
